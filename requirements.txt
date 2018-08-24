@@ -1,0 +1,14 @@
+coreapi
+coreapi-cli
+coreschema
+pygments
+httpie
+Django
+mongoengine
+django-filter
+djangorestframework
+django-oauth-toolkit
+djangorestframework-oauth
+djangorestframework-filters
+django-rest-framework-mongoengine
+
